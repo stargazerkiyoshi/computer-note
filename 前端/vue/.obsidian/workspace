@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "5cd79595e934bece",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccbc511bcd02ec8c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "source-study/将template解析成ast、render.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "914623f754823f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f577f6b290ed842",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1780e0e1359433d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "87aab7182b2aef1c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "af214863107f5aea",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c8660117aa112c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f09b0b193870473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source-study/将template解析成ast、render.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ccbc511bcd02ec8c",
+  "lastOpenFiles": [
+    "source-study/将template解析成ast、render.md",
+    "source-study/将template解析成render函数.md",
+    "source-study/寻找核心代码.md",
+    "source-study/dist.md",
+    "将template解析成render函数.md",
+    "source-study/工程目录.md",
+    "source-study/package.json.md",
+    "source-study/Untitled.md",
+    "Untitled.md"
+  ]
+}

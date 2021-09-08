@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "1955aa5b819ef099",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaa5544adfa37e08",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9b4f26e10d4ddbed",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e96c6515ab1d75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d77676f916293aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "51c5cce1b3d90289",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e3ef57a12b0b631",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f9ca0ec7fb94178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ab5d851bbe6e4a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "aaa5544adfa37e08",
+  "lastOpenFiles": [
+    "202109071633.md",
+    "自测注意事项/未命名.md",
+    "未命名.md",
+    "webpack/webpack中的路径问题（持续补充。。。）.md",
+    "webpack/img/Pasted image 20210902155037.png",
+    "javascript/this.md",
+    "webpack/未命名.md",
+    "npm/未命名.md",
+    "npm/npm镜像使用与恢复.md",
+    "vite原理.md"
+  ]
+}

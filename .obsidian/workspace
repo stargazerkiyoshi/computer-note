@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "4c903e12f15fc61c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d87d23402c08ca1",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1d5b0e6e3c0f810",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b73ab64d72b0a89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be21ad489eb78519",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e544f7dd03f080b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f03e50a921ee2d2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f192a459e618687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbbcf8062f4456cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e38c914edee80f3f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9670d57f7f444424",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "adc24f85d7176896",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d87d23402c08ca1",
+  "lastOpenFiles": [
+    "linux/配置IP地址.md",
+    "Day Planners/Day Planner-20210318.md",
+    "算法导论/循环不变式.md",
+    "算法导论/LaTeX数学公式.md",
+    "未命名.md",
+    "linux/磁盘/分区.md",
+    "算法导论/Untitled 1.md",
+    "202109071753.md",
+    "算法导论/算法.md",
+    "算法导论/排序问题.md"
+  ]
+}

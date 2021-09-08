@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "3844fc0a685dc707",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd94db2700ca1494",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "LaTeX数学公式.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d78bb13dd1edb200",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec414ab9948832e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95ff61870dcf1ce3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5b1824cfebaf726",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71e87d6d930cb859",
+    "type": "split",
+    "children": [
+      {
+        "id": "b664b8662e34cf79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6572168801c0ddc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LaTeX数学公式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bd94db2700ca1494",
+  "lastOpenFiles": [
+    "LaTeX数学公式.md",
+    "循环不变式.md",
+    "排序问题.md",
+    "分析算法.md",
+    "算法.md",
+    "RAM模型.md",
+    "mermaid图表.md",
+    "Untitled.md"
+  ]
+}

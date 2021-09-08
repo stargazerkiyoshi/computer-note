@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "3362db9617fc11ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66ff43ab6eddad6",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "序列(sequence).md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eac7b0e8f9315a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "234ccef667391c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08fd6259e4740b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1caacbdb1871a7e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0d4fec2e0bc4f10",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7549b69d475ab2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52eec97cf6d54f74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "序列(sequence).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "序列(sequence).md",
+    "元组.md",
+    "字符串.md",
+    "字典.md",
+    "Untitled.md",
+    "列表.md",
+    "基本语法.md"
+  ]
+}

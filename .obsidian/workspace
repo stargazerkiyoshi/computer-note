@@ -7,8 +7,11 @@
         "id": "3d87d23402c08ca1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Day Planners/Day Planner-20210908.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20210908.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +113,8 @@
   },
   "active": "3d87d23402c08ca1",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20210908.md",
+    "Day Planners/Day Planner-20210315.md",
     "linux/配置IP地址.md",
     "Day Planners/Day Planner-20210318.md",
     "算法导论/循环不变式.md",
@@ -116,8 +122,6 @@
     "未命名.md",
     "linux/磁盘/分区.md",
     "算法导论/Untitled 1.md",
-    "202109071753.md",
-    "算法导论/算法.md",
-    "算法导论/排序问题.md"
+    "202109071753.md"
   ]
 }

@@ -49,7 +49,7 @@ var obj = {
 
 ### commonjs
 1. 每个文件可作为一个模块
-2. 服务器端：模块加载是运行时同步加载的
+2. 服务器端：模块加载是运行时**同步加载**的
 3. 浏览器端：模块需要提前编译打包处理
 
 ```javascript
@@ -65,7 +65,7 @@ require(xxx)
 
 
 ### AMD
-专门用于浏览器端，模块加载是异步的
+专门用于浏览器端，模块加载是**异步**的
 基本语法：
 ```javascript
 //定义没有依赖的模块
@@ -111,7 +111,7 @@ define(['module1'], function(module1) {
 ```
 ### CMD
 - 专门用于浏览器
-- 加载是异步的
+- 加载是**异步**的
 - 按需加载
 ```javascript
 // html中引入sea.js
@@ -135,6 +135,7 @@ define(function(require, exports, module)) {
 ```
 ### ES6
 - 依赖模块需要编译打包处理
+- **异步**加载
 
 ### 浏览器原生支持
 [MDN](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Modules)

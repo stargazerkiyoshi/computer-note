@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/vue/source-study/将template解析成ast、render.md",
+            "file": "web_front_end/javascript/this.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/vue/source-study/将template解析成ast、render.md",
+                "file": "web_front_end/javascript/this.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,31 +80,14 @@
             }
           },
           {
-            "id": "e38c914edee80f3f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9670d57f7f444424",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "73116f49c4a683eb",
+            "id": "6941bb748c54c85d",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,15 +96,15 @@
   },
   "active": "3d87d23402c08ca1",
   "lastOpenFiles": [
-    "前端/vue/source-study/将template解析成ast、render.md",
-    "前端/vue/source-study/工程目录.md",
+    "web_front_end/javascript/this.md",
+    "web_front_end/vue/source-study/将template解析成ast、render.md",
+    "web_front_end/vue/source-study/工程目录.md",
     "前端/未命名.md",
-    "前端/自测注意事项/ui交互.md",
+    "web_front_end/自测注意事项/ui交互.md",
     "Day Planners/Day Planner-20210318.md",
     "Day Planners/Day Planner-20210317.md",
     "Day Planners/Day Planner-20210315.md",
-    "前端/JS 模块化/node中使用es6模块（例子）.md",
-    "前端/JS 模块化/node中使用es6模块.md",
-    "前端/JS 模块化/未命名.md"
+    "web_front_end/JS 模块化/node中使用es6模块（例子）.md",
+    "web_front_end/JS 模块化/node中使用es6模块.md"
   ]
 }

@@ -1,17 +1,15 @@
 {
   "main": {
-    "id": "4c903e12f15fc61c",
+    "id": "462d57da1a5c76e1",
     "type": "split",
     "children": [
       {
-        "id": "3d87d23402c08ca1",
+        "id": "19e11ac92e98d65b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
           "type": "markdown",
           "state": {
-            "file": "web_front_end/javascript/this.md",
+            "file": "network/网络构成.md",
             "mode": "source"
           }
         }
@@ -20,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c1d5b0e6e3c0f810",
+    "id": "d1332f987310dae2",
     "type": "split",
     "children": [
       {
-        "id": "6b73ab64d72b0a89",
+        "id": "4a261a5bf42148f5",
         "type": "tabs",
         "children": [
           {
-            "id": "be21ad489eb78519",
+            "id": "9b992fdab0e85ab5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +34,7 @@
             }
           },
           {
-            "id": "9e544f7dd03f080b",
+            "id": "cb6b3dba2aa6cf5c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,20 +55,28 @@
     "width": 300
   },
   "right": {
-    "id": "f03e50a921ee2d2e",
+    "id": "14a59610de7dd8ec",
     "type": "split",
     "children": [
       {
-        "id": "4f192a459e618687",
+        "id": "d4198d0172e8ddd1",
         "type": "tabs",
         "children": [
           {
-            "id": "dbbcf8062f4456cf",
+            "id": "6763be9cbdf3af5c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "90b5d95ffdbf12e0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_front_end/javascript/this.md",
+                "file": "network/网络构成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,14 +86,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "6941bb748c54c85d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       }
@@ -96,27 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d87d23402c08ca1",
+  "active": "19e11ac92e98d65b",
   "lastOpenFiles": [
-    "前端/未命名.md",
-    "前端/自测注意事项/ui交互.md",
-    "前端/npm/npm与cnpm的区别.md",
-    "前端/npm/npm镜像使用与恢复.md",
-    "前端/JS 模块化/node中使用es6模块（例子）.md",
-    "前端/JS 模块化/node中使用es6模块.md",
-    "前端/JS 模块化/JS modules.md",
-    "前端/vue/source-study/寻找核心代码.md",
-    "前端/vue/source-study/将template解析成ast、render.md",
-    "前端/vue/source-study/dist.md"
-    "web_front_end/javascript/this.md",
-    "web_front_end/vue/source-study/将template解析成ast、render.md",
-    "web_front_end/vue/source-study/工程目录.md",
-    "前端/未命名.md",
-    "web_front_end/自测注意事项/ui交互.md",
-    "Day Planners/Day Planner-20210318.md",
-    "Day Planners/Day Planner-20210317.md",
-    "Day Planners/Day Planner-20210315.md",
-    "web_front_end/JS 模块化/node中使用es6模块（例子）.md",
-    "web_front_end/JS 模块化/node中使用es6模块.md"
+    "network/未命名.md",
+    "离散数学/不变式.md",
+    "离散数学/证明.md",
+    "离散数学/数学归纳法.md",
+    "离散数学/逻辑推理.md",
+    "离散数学/反证法.md",
+    "算法导论/循环不变式.md",
+    "算法导论/伪代码.md",
+    "算法导论/排序问题.md",
+    "算法导论/RAM模型.md"
   ]
 }

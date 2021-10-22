@@ -7,11 +7,8 @@
         "id": "3d87d23402c08ca1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "前端/vue/source-study/将template解析成ast、render.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/vue/source-study/将template解析成ast、render.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +109,15 @@
   },
   "active": "3d87d23402c08ca1",
   "lastOpenFiles": [
-    "前端/vue/source-study/将template解析成ast、render.md",
-    "前端/vue/source-study/工程目录.md",
     "前端/未命名.md",
     "前端/自测注意事项/ui交互.md",
-    "Day Planners/Day Planner-20210318.md",
-    "Day Planners/Day Planner-20210317.md",
-    "Day Planners/Day Planner-20210315.md",
+    "前端/npm/npm与cnpm的区别.md",
+    "前端/npm/npm镜像使用与恢复.md",
     "前端/JS 模块化/node中使用es6模块（例子）.md",
     "前端/JS 模块化/node中使用es6模块.md",
-    "前端/JS 模块化/未命名.md"
+    "前端/JS 模块化/JS modules.md",
+    "前端/vue/source-study/寻找核心代码.md",
+    "前端/vue/source-study/将template解析成ast、render.md",
+    "前端/vue/source-study/dist.md"
   ]
 }

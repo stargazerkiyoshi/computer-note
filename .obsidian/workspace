@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "web_front_end/通用代码封装/js通用库.md",
-            "mode": "source"
+            "file": "network/网络构成.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web_front_end/通用代码封装/js通用库.md",
+                "file": "network/网络构成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,10 +96,10 @@
   },
   "active": "19e11ac92e98d65b",
   "lastOpenFiles": [
+    "network/网络构成.md",
     "web_front_end/通用代码封装/js通用库.md",
     "web_front_end/测试注意事项/1.md",
     "web_front_end/通用代码封装/css通用库.md",
-    "network/网络构成.md",
     "network/未命名.md",
     "离散数学/不变式.md",
     "离散数学/证明.md",

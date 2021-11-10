@@ -97,14 +97,14 @@
   "active": "76be6842a30b26c8",
   "lastOpenFiles": [
     "network/internet网络构成.md",
+    "network/协议.md",
+    "算法/算法.md",
+    "算法/排序问题.md",
+    "算法/分析算法.md",
+    "端系统.md",
+    "主机.md",
     "区块链/元宇宙.md",
     "web_front_end/通用代码封装/js通用库.md",
-    "web_front_end/测试注意事项/1.md",
-    "web_front_end/通用代码封装/css通用库.md",
-    "network/未命名.md",
-    "离散数学/不变式.md",
-    "离散数学/证明.md",
-    "离散数学/数学归纳法.md",
-    "离散数学/逻辑推理.md"
+    "web_front_end/测试注意事项/1.md"
   ]
 }

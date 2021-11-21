@@ -21,6 +21,8 @@ $$\tfrac{1}{3}$$
 
 $$\cfrac{3}{11}$$
 
+### 无穷大
+$\infty$ $+\infty$ $-\infty$
 
 ### 运算符
 $\pm \; \times \; \div \; \cdot \; \cap \; \cup \; \geq \; \leq \; \neq \; \approx \; \equiv$

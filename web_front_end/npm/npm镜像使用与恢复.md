@@ -3,6 +3,8 @@ npm --registry https://registry.npm.taobao.org install express
 
 ### 永久使用
 npm config set registry https://registry.npm.taobao.org
+原来的不再使用（20211202）
+npm config set registry https://registry.npmmirror.com
 
 ### 配置CNPM
 npm走的还是官方的，cnpm走的代理

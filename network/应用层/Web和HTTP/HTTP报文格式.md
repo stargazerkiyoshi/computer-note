@@ -29,11 +29,11 @@
 - 上述例子中并没有实体
 - 一般GET请求中没有实体体。POST请求中一般会有实体体
 ##### 通用格式
-图片待截取
+![[http请求报文格式.png]]
 ##### 各个请求方法
 - GET
 	1. 大部分使用的请求方法
-	2. 没有[[实体体]]
+	2. 没有[[#实体体]]
 	3. 表单参数可以通过"?"添加到URL后面，以请求返回特定内容
 - POST
 	1. 一般有实体体
@@ -50,7 +50,19 @@
 	1. 允许用户或应用程序删除Web服务器上的对象
 ### 响应报文
 - 例子：
-	待上传
+	```
+	HTTP/1.1 200 OK
+	Connection: close
+	Date: Tue, 09 Aug 2011 15:44:04 GT
+	Server: Apache/2.2.3 (Centos)
+	Last-Modified: Tue,
+	09 Aug 2011 15:11:03 GMT
+	Content-Length:6821
+	Content-Type: text/html
+	
+	
+	(data data data data data . . .)
+	```
 - 分为三部分
 	1. 初始**状态行（status line）**
 	2. 首部行（header line）
@@ -69,7 +81,7 @@
 - 报文的主要部分
 - 包含请求的对象本身
 ##### 通用格式
-待截图
+![[http响应报文.png]]
 ##### 常见状态码
 - 200 OK：请求成功，信息返回在响应报文中
 - 301 Moved Permanently：请求的对象已经被永久转移，新的URL在[[#响应报文]]的**Location**首部行中。客户浏览器将自动获取新的URL（见[[现代浏览器内部揭秘#3 读取响应]]）

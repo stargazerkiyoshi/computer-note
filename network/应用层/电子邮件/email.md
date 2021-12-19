@@ -16,7 +16,7 @@
 - 简单邮件传输协议（Simple Mail Transfer Protocol）
 - 见[[SMTP]]
 ##### 邮件访问协议
-- [[POP3]]、[[IMAP]]
+- [[POP3]]、[[IMAP]]、[[基于Web的电子邮件|HTTP]]
 ![[电子邮件系统.png]]
 ### 邮件发送接收过程
 - Alice撰写完邮件后，[[#用户代理]]（发送方）向其邮件服务器发送邮件

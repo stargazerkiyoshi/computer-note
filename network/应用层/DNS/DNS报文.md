@@ -34,3 +34,4 @@
 ### nslookup程序
 - nslookup program
 - 可以直接向某些DNS服务器发送DNS查询报文
+- 见[[使用nslookup]]
